@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {}
+    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {
+    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Gwen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\obj\\",
+        "outputPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VSCode\\Components\\NuGetPackages"

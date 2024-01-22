@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBj0Pbmauz9QYhmgwx6WMTYQ1lOWLm0ntTzwHn+sy1rf1+FjY1Ke+MiCYYTVlBmZB/H8+1F7HA5sloBhJOU8bQ==",
+  "dgSpecHash": "wasudZpZcTXuOOm2Lu4RR4tD/Sau7YLjyCzBlDm3FhLBoNl//wYr+0ff+tQMLnZemcZRzw80iZ1IW07XkpNMyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gwen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Gwen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
