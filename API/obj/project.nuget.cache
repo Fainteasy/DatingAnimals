@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDhG3P3jsMlo2GKtb0IyCxlPjN483tOvGV92dK1SYNt+EbEWJYF1p1vSZ0FhcBu+HZk7pv6wVYWuiA30Wx9iCw==",
+  "dgSpecHash": "Cjgcoa3vkqbZ4QFuExVa44AbROc/IN+ZAr6NkPJbQa7/Csj+qFEjNx3wMiaDNXkdQ3sNZBAI0w8BfpdvC8R/pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\troxi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\troxi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
