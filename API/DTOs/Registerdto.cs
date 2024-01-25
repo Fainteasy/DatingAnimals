@@ -6,3 +6,4 @@ public class Registerdto
 
     public string Password {get; set;}
 }
+
