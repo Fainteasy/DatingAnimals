@@ -262,3 +262,11 @@ C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\System.Identit
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

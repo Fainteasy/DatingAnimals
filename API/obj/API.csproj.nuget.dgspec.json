@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {}
+    "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {
+    "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+        "projectPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
         "packagesPath": "C:\\Users\\troxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\obj\\",
+        "outputPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\troxi\\AppData\\Roaming\\NuGet\\NuGet.Config",

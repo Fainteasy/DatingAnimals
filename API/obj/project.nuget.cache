@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+OR613LDuRwiEFrPhTNVspubb8z/0IDxhVOTeCfq7qYil6aA54PrptdTZddRctu7C4gfi5Z2X8VoE9EXD3l4ng==",
+  "dgSpecHash": "C0ilegXQLrXS5xMC6V3/zd8qUnruS6z5a32MwC7ISq4SeME06Wk7V6vtc8qPcKd+2sr3urlpito6S6sfV2PS8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\troxi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\troxi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
@@ -65,12 +65,5 @@
     "C:\\Users\\troxi\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\troxi\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problème de lecture du fichier cache C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
