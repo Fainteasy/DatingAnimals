@@ -270,3 +270,6 @@ C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.Ide
 C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

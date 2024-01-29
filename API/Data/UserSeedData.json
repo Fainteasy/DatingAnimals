@@ -1,0 +1,603 @@
+[
+    {
+      "UserName": "DoggyDude420",
+      "IsSterilized": true,
+      "Genre":"Male",
+      "DateOfBirth": "2016-07-12",
+      "KnownAs": "DoggyDude420",
+      "Created": "2021-03-25",
+      "LastActive": "2023-11-09",
+      "Introduction": "I'm a playful and energetic dog looking for new friends to explore the park with!",
+      "LookingFor": "I'm looking for a loving dog who enjoys long walks and plenty of belly rubs.",
+      "Interests": "Chasing squirrels, fetching balls, and snuggling on the couch.",
+      "Race": "Dog",
+      "City": "Los Angeles",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/otterhound/n02091635_1043.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "MeowAndChill",
+      "Genre": "Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2018-05-01",
+      "KnownAs": "MeowAndChill",
+      "Created": "2022-01-15",
+      "LastActive": "2023-12-20",
+      "Introduction": "I'm a curious and independent cat seeking a cozy home where I can nap in the sun.",
+      "LookingFor": "I'm looking for a patient cat who understands my need for space and occasional aloofness.",
+      "Interests": "Exploring new hiding spots, chasing laser pointers, and bird watching.",
+      "Race": "Cat",
+      "City": "Chicago",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "BirdNerd23",
+      "Genre": "Female",
+      "IsSterilized": false,
+      "DateOfBirth": "2019-11-30",
+      "KnownAs": "BirdNerd23",
+      "Created": "2023-02-18",
+      "LastActive": "2023-12-29",
+      "Introduction": "I'm a colorful bird with a melodious chirp, ready to bring joy to any household!",
+      "LookingFor": "I'm looking for a bird who will provide a spacious cage and plenty of toys.",
+      "Interests": "Singing, mimicking sounds, and showing off my vibrant feathers.",
+      "Race": "Bird",
+      "City": "Seattle",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1606567595334-d39972c85dbe?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FishyFellas",
+      "Genre": "Male",
+      "IsSterilized": true,
+      "DateOfBirth": "2017-04-20",
+      "KnownAs": "FishyFellas",
+      "Created": "2021-09-03",
+      "LastActive": "2023-10-11",
+      "Introduction": "I'm a graceful fish who enjoys swimming leisurely in serene aquatic environments.",
+      "LookingFor": "I'm seeking a fish tank with clean water and fellow fish companions to swim alongside.",
+      "Interests": "Exploring coral reefs, darting through underwater caves, and nibbling on fish flakes.",
+      "Race": "Fish",
+      "City": "Miami",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "PawsitiveVibesOnly",
+      "Genre":"Male",
+      "IsSterilized": false,
+      "DateOfBirth": "2015-10-08",
+      "KnownAs": "PawsitiveVibesOnly",
+      "Created": "2020-12-11",
+      "LastActive": "2023-09-05",
+      "Introduction": "I'm a rugged and adventurous dog who loves hiking through the wilderness and chasing squirrels.",
+      "LookingFor": "I'm searching for an active dog who shares my passion for outdoor adventures and playtime.",
+      "Interests": "Running through forests, fetching sticks, and splashing in streams.",
+      "Race": "Dog",
+      "City": "Denver",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/labradoodle/lola.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "CuddlePuddlePupper",
+      "Genre":"Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2016-12-03",
+      "KnownAs": "CuddlePuddlePupper",
+      "Created": "2021-05-29",
+      "LastActive": "2023-08-14",
+      "Introduction": "I'm a sophisticated and elegant cat seeking a home filled with luxurious cat towers and plush cushions.",
+      "LookingFor": "I'm looking for a cat-savvy owner who will appreciate my regal demeanor and provide gourmet meals.",
+      "Interests": "Lounging in sunbeams, grooming my silky fur, and batting at feather toys.",
+      "Race": "Cat",
+      "City": "San Francisco",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/6gj.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FlapAndFlirt",
+      "IsSterilized": true,
+      "Genre":"Male",
+      "DateOfBirth": "2019-03-15",
+      "KnownAs": "FlapAndFlirt",
+      "Created": "2022-08-02",
+      "LastActive": "2023-12-01",
+      "Introduction": "I'm a cheerful bird with a sunny disposition, ready to brighten up any room with my chirpy songs!",
+      "LookingFor": "I'm seeking a bird family who will provide a spacious cage and plenty of fresh fruits and seeds.",
+      "Interests": "Singing melodies, exploring new perches, and taking refreshing baths.",
+      "Race": "Bird",
+      "City": "Orlando",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1539664030485-a936c7d29c6e?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "PurrfectMatch24",
+      "Genre":"Female",
+      "IsSterilized": false,
+      "DateOfBirth": "2018-08-20",
+      "KnownAs": "PurrfectMatch24",
+      "Created": "2023-01-10",
+      "LastActive": "2023-11-22",
+      "Introduction": "I'm a bubbly fish with a colorful personality, ready to bring joy to any aquarium!",
+      "LookingFor": "I'm looking for a spacious fish tank with plenty of hiding spots and fellow fish to swim with.",
+      "Interests": "Blowing bubbles, exploring underwater caves, and nibbling on algae.",
+      "Race": "Fish",
+      "City": "Houston",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1571752726703-5e7d1f6a986d?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "MemeMachineMilo",
+      "Genre":"Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2017-01-05",
+      "KnownAs": "MemeMachineMilo",
+      "Created": "2022-03-20",
+      "LastActive": "2023-10-31",
+      "Introduction": "I'm a loyal and obedient dog ready to be your faithful companion on all of life's adventures!",
+      "LookingFor": "I'm searching for a loving owner who will provide plenty of playtime, cuddles, and tasty treats.",
+      "Interests": "Playing fetch, going for long walks, and snoozing by the fireplace.",
+      "Race": "Dog",
+      "City": "Boston",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_2474.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "SnugglySnailTrail",
+      "Genre":"Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2018-04-18",
+      "KnownAs": "SnugglySnailTrail",
+      "Created": "2021-11-28",
+      "LastActive": "2023-09-14",
+      "Introduction": "I'm a friendly and affectionate cat looking for a warm lap to curl up on and a gentle hand to stroke my fur.",
+      "LookingFor": "I'm seeking a loving family who will provide a cozy bed and plenty of chin scratches.",
+      "Interests": "Napping in sunbeams, chasing toy mice, and receiving cuddles.",
+      "Race": "Cat",
+      "City": "Austin",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/ahv.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+   {
+      "UserName": "DoggoDateNight",
+      "Genre":"Male",
+      "IsSterilized": false,
+      "DateOfBirth": "2018-09-10",
+      "KnownAs": "DoggoDateNight",
+      "Created": "2022-05-20",
+      "LastActive": "2023-11-15",
+      "Introduction": "I'm a playful dog who's looking for a fellow canine companion to romp around the dog park with!",
+      "LookingFor": "I'm searching for a friendly dog who enjoys fetching balls, chasing squirrels, and sharing treats.",
+      "Interests": "Running through fields, wrestling with other dogs, and sniffing interesting scents.",
+      "Race": "Dog",
+      "City": "San Diego",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_4603.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "CatNapCasanova",
+      "Genre":"Male",
+      "IsSterilized": true,
+      "DateOfBirth": "2017-11-22",
+      "KnownAs": "CatNapCasanova",
+      "Created": "2022-03-10",
+      "LastActive": "2023-10-25",
+      "Introduction": "I'm a sociable cat who's seeking a feline friend to curl up with for cozy cat naps and grooming sessions.",
+      "LookingFor": "I'm looking for a calm and affectionate cat who enjoys lounging in sunbeams and playing with toys.",
+      "Interests": "Purring, kneading soft blankets, and exploring new hiding spots.",
+      "Race": "Cat",
+      "City": "Portland",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/ars.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "WingmanWaldo",
+      "Genre":"Female",
+      "IsSterilized": false,
+      "DateOfBirth": "2019-07-03",
+      "KnownAs": "WingmanWaldo",
+      "Created": "2023-02-01",
+      "LastActive": "2023-12-10",
+      "Introduction": "I'm a cheerful bird who's looking for a feathered friend to chirp melodies with and share tasty treats.",
+      "LookingFor": "I'm searching for a playful bird who enjoys flapping wings, preening feathers, and exploring new perches.",
+      "Interests": "Singing cheerful tunes, mimicking sounds, and showing off colorful plumage.",
+      "Race": "Bird",
+      "City": "Phoenix",
+      "Photos": [
+        {
+          "Url": "https://plus.unsplash.com/premium_photo-1687880581926-e3d23bde38e7?q=80&w=1941&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "SwimSwagSammy",
+      "IsSterilized": true,
+      "DateOfBirth": "2020-02-14",
+      "Genre":"Male",
+      "KnownAs": "SwimSwagSammy",
+      "Created": "2022-09-05",
+      "LastActive": "2023-11-29",
+      "Introduction": "I'm a friendly fish who's searching for another aquatic friend to swim alongside and explore the depths of the aquarium.",
+      "LookingFor": "I'm looking for a compatible fish companion who enjoys gliding gracefully through the water and chasing bubbles.",
+      "Interests": "Blowing bubbles, darting between plants, and nibbling on fish flakes.",
+      "Race": "Fish",
+      "City": "Dallas",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "PawssiblyTheOne",
+      "Genre":"Male",
+      "IsSterilized": false,
+      "DateOfBirth": "2017-05-30",
+      "KnownAs": "PawssiblyTheOne",
+      "Created": "2022-07-12",
+      "LastActive": "2023-12-05",
+      "Introduction": "I'm an outgoing dog who's seeking a playful companion to go on adventures with and share endless tail wags!",
+      "LookingFor": "I'm searching for a fun-loving dog who enjoys exploring new trails, fetching toys, and splashing in water.",
+      "Interests": "Chasing squirrels, rolling in grass, and cuddling with my human.",
+      "Race": "Dog",
+      "City": "Atlanta",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/rottweiler/n02106550_10714.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "CattyCuddles",
+      "Genre":"Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2018-08-18",
+      "KnownAs": "CattyCuddles",
+      "Created": "2023-01-30",
+      "LastActive": "2023-10-18",
+      "Introduction": "I'm a gentle cat who's looking for a furry friend to share warm cuddles, grooming sessions, and quiet purrs.",
+      "LookingFor": "I'm looking for a sweet cat who enjoys cozying up in blankets, chasing feather toys, and sharing tasty treats.",
+      "Interests": "Napping in cozy beds, grooming soft fur, and exploring cardboard boxes.",
+      "Race": "Cat",
+      "City": "Houston",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/brq.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "WingItWithWhitney",
+      "Genre":"Female",
+      "IsSterilized": true,
+      "DateOfBirth": "2019-03-25",
+      "KnownAs": "WingItWithWhitney",
+      "Created": "2022-06-22",
+      "LastActive": "2023-12-28",
+      "Introduction": "I'm a talkative bird who's seeking another feathered friend to share stories, songs, and tasty treats with.",
+      "LookingFor": "I'm searching for a sociable bird who enjoys mimicking sounds, flapping wings, and exploring new toys.",
+      "Interests": "Singing catchy tunes, imitating voices, and munching on seeds.",
+      "Race": "Bird",
+      "City": "New York",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1480044965905-02098d419e96?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "Fin-tasticFinn",
+      "Genre":"Male",
+      "IsSterilized": false,
+      "DateOfBirth": "2016-11-12",
+      "KnownAs": "Fin-tasticFinn",
+      "Created": "2022-10-10",
+      "LastActive": "2023-11-18",
+      "Introduction": "I'm a friendly fish who's looking for a finned friend to explore the oceanic wonders of the aquarium with!",
+      "LookingFor": "I'm searching for a compatible fish companion who enjoys swimming gracefully, gliding through seaweed, and nibbling on algae.",
+      "Interests": "Exploring coral reefs, darting between rocks, and shimmering in the sunlight.",
+      "Race": "Fish",
+      "City": "Miami",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1544943910-4c1dc44aab44?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "PawsitivelyPurrfect",
+      "Genre":"Male",
+      "IsSterilized": true,
+      "DateOfBirth": "2017-06-20",
+      "KnownAs": "PawsitivelyPurrfect",
+      "Created": "2023-03-12",
+      "LastActive": "2023-12-22",
+      "Introduction": "I'm an energetic dog who's seeking a four-legged friend to play fetch, go on hikes, and share belly rubs with!",
+      "LookingFor": "I'm looking for a playful dog who enjoys bounding through fields, splashing in lakes, and wagging tails.",
+      "Interests": "Running through meadows, sniffing new scents, and chasing butterflies.",
+      "Race": "Dog",
+      "City": "Denver",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/komondor/n02105505_4311.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "MemeQueenMittens",
+      "IsSterilized": true,
+      "Genre":"Male",
+      "DateOfBirth": "2018-12-15",
+      "KnownAs": "MemeQueenMittens",
+      "Created": "2022-08-18",
+      "LastActive": "2023-11-30",
+      "Introduction": "I'm a cuddly cat who's searching for another purr-fect feline friend to snuggle up with on chilly nights and share chin scratches.",
+      "LookingFor": "I'm seeking a friendly cat who enjoys cozying up in warm blankets, chasing laser pointers, and lounging in sunbeams.",
+      "Interests": "Purring softly, kneading fluffy blankets, and curling up in cozy laps.",
+      "Race": "Cat",
+      "City": "Chicago",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/cga.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+  {
+      "UserName": "BarkBoxBeau",
+      "IsSterilized": false,
+      "DateOfBirth": "2019-05-03",
+      "KnownAs": "BarkBoxBeau",
+      "Created": "2023-01-10",
+      "LastActive": "2023-11-22",
+      "Introduction": "I'm a friendly dog who's looking for a loyal companion to share adventures and playtime with!",
+      "LookingFor": "I'm searching for a fun-loving dog who enjoys running, fetching, and cuddling.",
+      "Interests": "Exploring new trails, playing fetch, and snuggling on the couch.",
+      "Race": "Dog",
+      "Genre": "Male",
+      "City": "Seattle",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/buhund-norwegian/hakon3.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FinnedFellaFred",
+      "IsSterilized": true,
+      "DateOfBirth": "2018-08-15",
+      "KnownAs": "FinnedFellaFred",
+      "Created": "2022-06-20",
+      "LastActive": "2023-12-05",
+      "Introduction": "I'm a playful cat who's seeking a feline friend to chase toys, groom each other, and nap together.",
+      "LookingFor": "I'm looking for a friendly cat who enjoys playing, cuddling, and exploring.",
+      "Interests": "Chasing toy mice, lounging in sunbeams, and watching birds from the window.",
+      "Race": "Cat",
+      "Genre": "Female",
+      "City": "New York",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/d9q.png",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FeatheredFlirtFiona",
+      "IsSterilized": false,
+      "DateOfBirth": "2020-02-10",
+      "KnownAs": "FeatheredFlirtFiona",
+      "Created": "2023-03-05",
+      "LastActive": "2023-12-18",
+      "Introduction": "I'm a cheerful bird who's looking for another feathered friend to sing songs, share snacks, and explore the skies with!",
+      "LookingFor": "I'm searching for a playful bird who enjoys chirping, flying, and perching.",
+      "Interests": "Singing melodies, mimicking sounds, and flapping wings.",
+      "Race": "Bird",
+      "Genre": "Male",
+      "City": "Los Angeles",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FishyFiestaFrankie",
+      "IsSterilized": true,
+      "DateOfBirth": "2019-11-22",
+      "KnownAs": "FishyFiestaFrankie",
+      "Created": "2022-09-18",
+      "LastActive": "2023-11-30",
+      "Introduction": "I'm a playful fish who's searching for another aquatic buddy to swim, splash, and explore the depths with!",
+      "LookingFor": "I'm looking for a friendly fish who enjoys gliding gracefully, exploring caves, and nibbling on algae.",
+      "Interests": "Swimming through plants, darting between rocks, and chasing bubbles.",
+      "Race": "Fish",
+      "Genre": "Male",
+      "City": "Chicago",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1497671954146-59a89ff626ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "MeowvelousMatchMaker",
+      "IsSterilized": true,
+      "DateOfBirth": "2018-07-05",
+      "KnownAs": "MeowvelousMatchMaker",
+      "Created": "2022-05-15",
+      "LastActive": "2023-11-26",
+      "Introduction": "I'm a friendly cat who's seeking another feline friend to groom, play, and cuddle with.",
+      "LookingFor": "I'm looking for a sociable cat who enjoys interacting, exploring, and sharing affection.",
+      "Interests": "Grooming each other, chasing toys, and lounging together.",
+      "Race": "Cat",
+      "Genre": "Female",
+      "City": "San Francisco",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/MTc0MzMwOA.gif",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "WoofWooferWalter",
+      "IsSterilized": false,
+      "DateOfBirth": "2017-04-20",
+      "KnownAs": "WoofWooferWalter",
+      "Created": "2023-01-10",
+      "LastActive": "2023-11-22",
+      "Introduction": "I'm an adventurous dog who's looking for a buddy to hike, explore, and play fetch with!",
+      "LookingFor": "I'm searching for an active dog who enjoys outdoor activities, running, and roughhousing.",
+      "Interests": "Hiking trails, fetching sticks, and exploring new places.",
+      "Race": "Dog",
+      "Genre": "Male",
+      "City": "Denver",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/puggle/IMG_151824.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "BirdieBuddyBabs",
+      "IsSterilized": true,
+      "DateOfBirth": "2019-03-18",
+      "KnownAs": "BirdieBuddyBabs",
+      "Created": "2022-08-22",
+      "LastActive": "2023-12-02",
+      "Introduction": "I'm a cheerful bird who's looking for another feathered friend to chirp, sing, and enjoy the sunny days with!",
+      "LookingFor": "I'm searching for a sociable bird who enjoys singing, flying, and exploring new places.",
+      "Interests": "Singing melodies, mimicking sounds, and flapping wings.",
+      "Race": "Bird",
+      "Genre": "Female",
+      "City": "Austin",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1572402230267-f3e267c1e5a2?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "FinnedFriendFinder",
+      "IsSterilized": false,
+      "DateOfBirth": "2018-10-10",
+      "KnownAs": "FinnedFriendFinder",
+      "Created": "2022-06-18",
+      "LastActive": "2023-11-28",
+      "Introduction": "I'm a curious fish who's searching for another aquatic buddy to explore the oceanic wonders of the aquarium with!",
+      "LookingFor": "I'm looking for a compatible fish who enjoys swimming, hiding, and nibbling on algae.",
+      "Interests": "Exploring coral reefs, darting between rocks, and chasing bubbles.",
+      "Race": "Fish",
+      "Genre": "Male",
+      "City": "Miami",
+      "Photos": [
+        {
+          "Url": "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "CuddlebugCassie",
+      "IsSterilized": true,
+      "DateOfBirth": "2017-12-05",
+      "KnownAs": "CuddlebugCassie",
+      "Created": "2023-03-10",
+      "LastActive": "2023-12-18",
+      "Introduction": "I'm a friendly cat who's looking for a cuddly companion to share warm blankets, soft pillows, and gentle purrs with.",
+      "LookingFor": "I'm looking for a sweet cat who enjoys snuggling, playing, and exploring together.",
+      "Interests": "Curling up in laps, chasing toys, and lounging in cozy beds.",
+      "Race": "Cat",
+      "Genre": "Female",
+      "City": "Chicago",
+      "Photos": [
+        {
+          "Url": "https://cdn2.thecatapi.com/images/yKXeUMNZ8.jpg",
+          "IsMain": true
+        }
+      ]
+    },
+    {
+      "UserName": "BarkBuddiesForever",
+      "IsSterilized": false,
+      "DateOfBirth": "2018-04-20",
+      "KnownAs": "BarkBuddiesForever",
+      "Created": "2022-09-18",
+      "LastActive": "2023-11-30",
+      "Introduction": "I'm an energetic dog who's seeking a furry friend to play fetch, go on walks, and enjoy belly rubs with!",
+      "LookingFor": "I'm looking for a playful dog who enjoys running, playing, and exploring.",
+      "Interests": "Chasing balls, going for walks, and cuddling on the couch.",
+      "Race": "Dog",
+      "Genre": "Male",
+      "City": "Denver",
+      "Photos": [
+        {
+          "Url": "https://images.dog.ceo/breeds/retriever-curly/n02099429_3159.jpg",
+          "IsMain": true
+        }
+      ]
+    }
+  ]
+  
