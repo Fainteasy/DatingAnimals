@@ -1,1 +1,64 @@
-<p>member-detail works!</p>
+<div class="row" *ngIf="member">
+    <div class="col-md-4">
+        <div class="card border-primary">
+            <img src="{{member.photoUrl || './assets/user.png'}}" alt="{{member.knownAs}}"
+                class="card-img-top img-thumbnail" style="max-height: 300px; width: 100%;">
+            <div class="card-body">
+                <div>
+                    <strong class="text-primary">Location:</strong>
+                    <p>{{member.city}}</p>
+                </div>
+            </div>
+            <div class="card-body">
+                <div>
+                    <strong class="text-primary">Age:</strong>
+                    <p>{{member.age}}</p>
+                </div>
+            </div>
+            <div class="card-body">
+                <div>
+                    <strong class="text-primary">Last Active:</strong>
+                    <p>{{member.lastActive}}</p>
+                </div>
+            </div>
+            <div class="card-body">
+                <div>
+                    <strong class="text-primary">Created:</strong>
+                    <p>{{member.created}}</p>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="btn-group d-flex">
+                    <button class="btn btn-primary"><i class="fa fa-heart"></i> Like</button>
+                    <button class="btn btn-secondary"><i class="fa fa-envelope"></i> Message</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-8">
+        <tabset class="member-tabs">
+            <tab heading="About {{member.knownAs}}">
+                <h4 class="text-secondary">Description</h4>
+                <p>{{member.introduction}}</p>
+                <h4 class="text-secondary">Looking for</h4>
+                <p>{{member.lookingFor}}</p>
+                <h4 class="text-secondary">Race</h4>
+                <p>{{member.race}}</p>
+                <h4 class="text-secondary">Able to reproduice ?</h4>
+                <p *ngIf="member.isSterilized">Yes !</p>
+                <p *ngIf="!member.isSterilized">No, but I can do plenty of other things :) </p>
+            </tab>
+            <tab heading="Interests">
+                <h4>Interests</h4>
+                <p>{{member.interests}}</p>
+            </tab>
+            <tab heading="Photos" #photoTab="tab">
+                <gallery [items]="images" *ngIf="photoTab.active" class="gallery"></gallery>
+            </tab>
+            <tab heading="Messages">
+                <h4>Messages</h4>
+                <p>Messages goes here</p>
+            </tab>
+        </tabset>
+    </div>
+</div>
