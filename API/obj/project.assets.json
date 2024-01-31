@@ -3389,24 +3389,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gwen\\.nuget\\packages\\": {},
-    "D:\\VSCode\\Components\\NuGetPackages": {}
+    "C:\\Users\\troxi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Gwen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\obj\\",
+      "projectPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\troxi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\troxi\\Documents\\BeCode\\DatingAnimals\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\VSCode\\Components\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Gwen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\troxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3414,7 +3409,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3479,7 +3473,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

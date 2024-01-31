@@ -273,3 +273,6 @@ C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\System.Identi
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Data\UserSeedData.json
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Gwen\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\troxi\Documents\BeCode\DatingAnimals\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
