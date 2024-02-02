@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
     <div class="container-fluid">
       <a class="navbar-brand" routerLink="/" routerLinkActive="active">
@@ -17,6 +18,7 @@
         </ul>
 
         <div class="dropdown" *ngIf="(accountService.currentUser$ | async) as user" dropdown>
+          <img src="{{user.photoUrl}}" alt="user photo">
             <a class="dropdown-toggle text-light text-decoration-none" dropdownToggle> Welcome, {{user.username | titlecase}}!</a>
             <div class="dropdown-menu" *dropdownMenu>
                 <a class="dropdown-item" routerLink="/member/edit">Edit Profile</a>
