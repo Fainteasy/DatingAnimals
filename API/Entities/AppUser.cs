@@ -20,9 +20,9 @@ public class AppUser
     public List<Photo> Photos { get; set; } = new();
     public string Race { get; set; }
     public bool IsSterilized { get; set; }
-    // public int GetAge() {
-    //     return DateOfBirth.CalculateAge();
-    // }
+    public List<UserLike> LikedByUser { get; set; }
+
+    public List<UserLike> LikedUser { get; set; }
     
 
 }
