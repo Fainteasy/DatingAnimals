@@ -1,8 +1,27 @@
-﻿namespace API.Entities;
+﻿using API.Extensions;
+using Microsoft.AspNetCore.Identity;
 
-public class AppUser
+namespace API.Entities;
+
+public class AppUser : IdentityUser<int>
 {
-    public int Id { get; set; }
-    public string UserName { get; set; }
+    public DateOnly DateOfBirth { get; set; }
+    public string KnownAs { get; set; }
+    public DateTime Created { get; set; } = DateTime.UtcNow;
+    public DateTime LastActive { get; set; } = DateTime.UtcNow;
+    public string Genre { get; set; }
+    public string Introduction { get; set; }
+    public string LookingFor { get; set; }
+    public string Interests { get; set; }
+    public string City { get; set; }
+    public List<Photo> Photos { get; set; } = new();
+    public string Race { get; set; }
+    public bool IsSterilized { get; set; }
+    public List<UserLike> LikedByUser { get; set; }
+
+    public List<UserLike> LikedUser { get; set; }
+    public List<Message> MessagesSent { get; set; }
+    public List<Message> MessageReceived { get; set; }
+    public ICollection<AppUserRole> UserRoles { get; set; }
 
 }

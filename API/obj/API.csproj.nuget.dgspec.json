@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {}
+    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj": {
+    "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Gwen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\API\\obj\\",
+        "outputPath": "C:\\Users\\Gwen\\Documents\\BeCode\\DatingAnimals\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VSCode\\Components\\NuGetPackages"
@@ -45,19 +45,39 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.25.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             }
           },
           "imports": [
