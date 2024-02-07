@@ -8,7 +8,8 @@
         </ul>
         <div class="card-body p-0">
             <h6 class="card-title text-center p-1 mb-1 bg-secondary">
-                <i class="fa fa-user me-2 text-primary"></i><strong style="color: white;">{{member.knownAs}}</strong>
+                <span [class.is-online]="(presenceService.onlineUsers$ | async)?.includes(member.userName)"><i class="fa fa-user me-2"></i></span>
+                <strong style="color: white;">{{member.knownAs}}</strong>
             </h6>
             <p class="card-text text-muted text-center">{{member.city}}</p>
         </div>
